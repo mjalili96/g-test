@@ -327,6 +327,12 @@
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/death_test.cc">
 			<Option target="g_test"/>
 		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/disabled_tests.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/disabled_tests_fixture.cc">
+			<Option target="g_test"/>
+		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/exceptions.cc">
 			<Option target="g_test"/>
 		</Unit>

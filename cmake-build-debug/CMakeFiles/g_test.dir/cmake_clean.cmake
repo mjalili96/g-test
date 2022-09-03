@@ -2,6 +2,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/g_test.dir/assert_vs_expect.cc.obj"
   "CMakeFiles/g_test.dir/c_string_assertions.cc.obj"
   "CMakeFiles/g_test.dir/death_test.cc.obj"
+  "CMakeFiles/g_test.dir/disabled_tests.cc.obj"
+  "CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj"
   "CMakeFiles/g_test.dir/exceptions.cc.obj"
   "CMakeFiles/g_test.dir/fib_test.cc.obj"
   "CMakeFiles/g_test.dir/floating_points.cc.obj"

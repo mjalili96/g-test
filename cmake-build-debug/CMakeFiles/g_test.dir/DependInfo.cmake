@@ -7,6 +7,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Mj117324/CLionProjects/g-test/assert_vs_expect.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/assert_vs_expect.cc.obj"
   "C:/Users/Mj117324/CLionProjects/g-test/c_string_assertions.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/c_string_assertions.cc.obj"
   "C:/Users/Mj117324/CLionProjects/g-test/death_test.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/death_test.cc.obj"
+  "C:/Users/Mj117324/CLionProjects/g-test/disabled_tests.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/disabled_tests.cc.obj"
+  "C:/Users/Mj117324/CLionProjects/g-test/disabled_tests_fixture.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj"
   "C:/Users/Mj117324/CLionProjects/g-test/exceptions.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/exceptions.cc.obj"
   "C:/Users/Mj117324/CLionProjects/g-test/fib_test.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/fib_test.cc.obj"
   "C:/Users/Mj117324/CLionProjects/g-test/floating_points.cc" "C:/Users/Mj117324/CLionProjects/g-test/cmake-build-debug/CMakeFiles/g_test.dir/floating_points.cc.obj"

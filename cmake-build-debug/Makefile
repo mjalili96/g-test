@@ -320,6 +320,60 @@ death_test.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/death_test.cc.s
 .PHONY : death_test.cc.s
 
+disabled_tests.obj: disabled_tests.cc.obj
+
+.PHONY : disabled_tests.obj
+
+# target to build an object file
+disabled_tests.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/disabled_tests.cc.obj
+.PHONY : disabled_tests.cc.obj
+
+disabled_tests.i: disabled_tests.cc.i
+
+.PHONY : disabled_tests.i
+
+# target to preprocess a source file
+disabled_tests.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/disabled_tests.cc.i
+.PHONY : disabled_tests.cc.i
+
+disabled_tests.s: disabled_tests.cc.s
+
+.PHONY : disabled_tests.s
+
+# target to generate assembly for a file
+disabled_tests.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/disabled_tests.cc.s
+.PHONY : disabled_tests.cc.s
+
+disabled_tests_fixture.obj: disabled_tests_fixture.cc.obj
+
+.PHONY : disabled_tests_fixture.obj
+
+# target to build an object file
+disabled_tests_fixture.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj
+.PHONY : disabled_tests_fixture.cc.obj
+
+disabled_tests_fixture.i: disabled_tests_fixture.cc.i
+
+.PHONY : disabled_tests_fixture.i
+
+# target to preprocess a source file
+disabled_tests_fixture.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/disabled_tests_fixture.cc.i
+.PHONY : disabled_tests_fixture.cc.i
+
+disabled_tests_fixture.s: disabled_tests_fixture.cc.s
+
+.PHONY : disabled_tests_fixture.s
+
+# target to generate assembly for a file
+disabled_tests_fixture.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/disabled_tests_fixture.cc.s
+.PHONY : disabled_tests_fixture.cc.s
+
 exceptions.obj: exceptions.cc.obj
 
 .PHONY : exceptions.obj
@@ -535,6 +589,12 @@ help:
 	@echo ... death_test.obj
 	@echo ... death_test.i
 	@echo ... death_test.s
+	@echo ... disabled_tests.obj
+	@echo ... disabled_tests.i
+	@echo ... disabled_tests.s
+	@echo ... disabled_tests_fixture.obj
+	@echo ... disabled_tests_fixture.i
+	@echo ... disabled_tests_fixture.s
 	@echo ... exceptions.obj
 	@echo ... exceptions.i
 	@echo ... exceptions.s

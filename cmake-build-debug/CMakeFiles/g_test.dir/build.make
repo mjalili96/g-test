@@ -215,6 +215,34 @@ CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.s"
 	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\test_fixture_shared_resources.cc -o CMakeFiles\g_test.dir\test_fixture_shared_resources.cc.s
 
+CMakeFiles/g_test.dir/disabled_tests.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/disabled_tests.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/disabled_tests.cc.obj: ../disabled_tests.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/g_test.dir/disabled_tests.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\disabled_tests.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\disabled_tests.cc
+
+CMakeFiles/g_test.dir/disabled_tests.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/disabled_tests.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\disabled_tests.cc > CMakeFiles\g_test.dir\disabled_tests.cc.i
+
+CMakeFiles/g_test.dir/disabled_tests.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/disabled_tests.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\disabled_tests.cc -o CMakeFiles\g_test.dir\disabled_tests.cc.s
+
+CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj: ../disabled_tests_fixture.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\disabled_tests_fixture.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\disabled_tests_fixture.cc
+
+CMakeFiles/g_test.dir/disabled_tests_fixture.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/disabled_tests_fixture.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\disabled_tests_fixture.cc > CMakeFiles\g_test.dir\disabled_tests_fixture.cc.i
+
+CMakeFiles/g_test.dir/disabled_tests_fixture.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/disabled_tests_fixture.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\disabled_tests_fixture.cc -o CMakeFiles\g_test.dir\disabled_tests_fixture.cc.s
+
 # Object files for target g_test
 g_test_OBJECTS = \
 "CMakeFiles/g_test.dir/main.cpp.obj" \
@@ -226,7 +254,9 @@ g_test_OBJECTS = \
 "CMakeFiles/g_test.dir/exceptions.cc.obj" \
 "CMakeFiles/g_test.dir/death_test.cc.obj" \
 "CMakeFiles/g_test.dir/test_fixture.cc.obj" \
-"CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.obj"
+"CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.obj" \
+"CMakeFiles/g_test.dir/disabled_tests.cc.obj" \
+"CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj"
 
 # External object files for target g_test
 g_test_EXTERNAL_OBJECTS =
@@ -241,6 +271,8 @@ g_test.exe: CMakeFiles/g_test.dir/exceptions.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/death_test.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/test_fixture.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/disabled_tests.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/build.make
 g_test.exe: lib/libgtest.a
 g_test.exe: lib/libgtest_main.a
@@ -248,7 +280,7 @@ g_test.exe: lib/libgtest.a
 g_test.exe: CMakeFiles/g_test.dir/linklibs.rsp
 g_test.exe: CMakeFiles/g_test.dir/objects1.rsp
 g_test.exe: CMakeFiles/g_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable g_test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable g_test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\g_test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

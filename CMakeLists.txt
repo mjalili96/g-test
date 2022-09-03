@@ -25,6 +25,8 @@ set(SOURCE_FILES
         exceptions.cc
         death_test.cc
         test_fixture.cc
-        test_fixture_shared_resources.cc)
+        test_fixture_shared_resources.cc
+        disabled_tests.cc
+        disabled_tests_fixture.cc)
 add_executable(g_test ${SOURCE_FILES})
 TARGET_LINK_LIBRARIES(g_test gtest gtest_main)

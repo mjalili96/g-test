@@ -243,6 +243,188 @@ CMakeFiles/g_test.dir/disabled_tests_fixture.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/disabled_tests_fixture.cc.s"
 	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\disabled_tests_fixture.cc -o CMakeFiles\g_test.dir\disabled_tests_fixture.cc.s
 
+CMakeFiles/g_test.dir/test_share_logic.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/test_share_logic.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/test_share_logic.cc.obj: ../test_share_logic.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/g_test.dir/test_share_logic.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\test_share_logic.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\test_share_logic.cc
+
+CMakeFiles/g_test.dir/test_share_logic.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/test_share_logic.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\test_share_logic.cc > CMakeFiles\g_test.dir\test_share_logic.cc.i
+
+CMakeFiles/g_test.dir/test_share_logic.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/test_share_logic.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\test_share_logic.cc -o CMakeFiles\g_test.dir\test_share_logic.cc.s
+
+CMakeFiles/g_test.dir/test_param.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/test_param.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/test_param.cc.obj: ../test_param.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/g_test.dir/test_param.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\test_param.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\test_param.cc
+
+CMakeFiles/g_test.dir/test_param.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/test_param.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\test_param.cc > CMakeFiles\g_test.dir\test_param.cc.i
+
+CMakeFiles/g_test.dir/test_param.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/test_param.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\test_param.cc -o CMakeFiles\g_test.dir\test_param.cc.s
+
+CMakeFiles/g_test.dir/test_param_share_logic.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/test_param_share_logic.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/test_param_share_logic.cc.obj: ../test_param_share_logic.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/g_test.dir/test_param_share_logic.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\test_param_share_logic.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\test_param_share_logic.cc
+
+CMakeFiles/g_test.dir/test_param_share_logic.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/test_param_share_logic.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\test_param_share_logic.cc > CMakeFiles\g_test.dir\test_param_share_logic.cc.i
+
+CMakeFiles/g_test.dir/test_param_share_logic.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/test_param_share_logic.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\test_param_share_logic.cc -o CMakeFiles\g_test.dir\test_param_share_logic.cc.s
+
+CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj: ../typed_tests_findmax.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\typed_tests_findmax.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\typed_tests_findmax.cc
+
+CMakeFiles/g_test.dir/typed_tests_findmax.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/typed_tests_findmax.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\typed_tests_findmax.cc > CMakeFiles\g_test.dir\typed_tests_findmax.cc.i
+
+CMakeFiles/g_test.dir/typed_tests_findmax.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/typed_tests_findmax.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\typed_tests_findmax.cc -o CMakeFiles\g_test.dir\typed_tests_findmax.cc.s
+
+CMakeFiles/g_test.dir/private_members.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/private_members.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/private_members.cc.obj: ../private_members.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/g_test.dir/private_members.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\private_members.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\private_members.cc
+
+CMakeFiles/g_test.dir/private_members.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/private_members.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\private_members.cc > CMakeFiles\g_test.dir\private_members.cc.i
+
+CMakeFiles/g_test.dir/private_members.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/private_members.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\private_members.cc -o CMakeFiles\g_test.dir\private_members.cc.s
+
+CMakeFiles/g_test.dir/adding_traces.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/adding_traces.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/adding_traces.cc.obj: ../adding_traces.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/g_test.dir/adding_traces.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\adding_traces.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\adding_traces.cc
+
+CMakeFiles/g_test.dir/adding_traces.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/adding_traces.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\adding_traces.cc > CMakeFiles\g_test.dir\adding_traces.cc.i
+
+CMakeFiles/g_test.dir/adding_traces.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/adding_traces.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\adding_traces.cc -o CMakeFiles\g_test.dir\adding_traces.cc.s
+
+CMakeFiles/g_test.dir/unspecified.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/unspecified.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/unspecified.cc.obj: ../unspecified.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/g_test.dir/unspecified.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\unspecified.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\unspecified.cc
+
+CMakeFiles/g_test.dir/unspecified.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/unspecified.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\unspecified.cc > CMakeFiles\g_test.dir\unspecified.cc.i
+
+CMakeFiles/g_test.dir/unspecified.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/unspecified.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\unspecified.cc -o CMakeFiles\g_test.dir\unspecified.cc.s
+
+CMakeFiles/g_test.dir/on_call.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/on_call.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/on_call.cc.obj: ../on_call.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/g_test.dir/on_call.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\on_call.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\on_call.cc
+
+CMakeFiles/g_test.dir/on_call.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/on_call.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\on_call.cc > CMakeFiles\g_test.dir\on_call.cc.i
+
+CMakeFiles/g_test.dir/on_call.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/on_call.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\on_call.cc -o CMakeFiles\g_test.dir\on_call.cc.s
+
+CMakeFiles/g_test.dir/expect_call.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call.cc.obj: ../expect_call.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/g_test.dir/expect_call.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call.cc
+
+CMakeFiles/g_test.dir/expect_call.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call.cc > CMakeFiles\g_test.dir\expect_call.cc.i
+
+CMakeFiles/g_test.dir/expect_call.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call.cc -o CMakeFiles\g_test.dir\expect_call.cc.s
+
+CMakeFiles/g_test.dir/expect_call_matchers.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call_matchers.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call_matchers.cc.obj: ../expect_call_matchers.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/g_test.dir/expect_call_matchers.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call_matchers.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call_matchers.cc
+
+CMakeFiles/g_test.dir/expect_call_matchers.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call_matchers.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call_matchers.cc > CMakeFiles\g_test.dir\expect_call_matchers.cc.i
+
+CMakeFiles/g_test.dir/expect_call_matchers.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_matchers.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_matchers.cc -o CMakeFiles\g_test.dir\expect_call_matchers.cc.s
+
+CMakeFiles/g_test.dir/expect_call_order.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call_order.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call_order.cc.obj: ../expect_call_order.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/g_test.dir/expect_call_order.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call_order.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call_order.cc
+
+CMakeFiles/g_test.dir/expect_call_order.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call_order.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call_order.cc > CMakeFiles\g_test.dir\expect_call_order.cc.i
+
+CMakeFiles/g_test.dir/expect_call_order.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_order.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_order.cc -o CMakeFiles\g_test.dir\expect_call_order.cc.s
+
+CMakeFiles/g_test.dir/expect_call_return.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call_return.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call_return.cc.obj: ../expect_call_return.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/g_test.dir/expect_call_return.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call_return.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call_return.cc
+
+CMakeFiles/g_test.dir/expect_call_return.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call_return.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call_return.cc > CMakeFiles\g_test.dir\expect_call_return.cc.i
+
+CMakeFiles/g_test.dir/expect_call_return.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_return.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_return.cc -o CMakeFiles\g_test.dir\expect_call_return.cc.s
+
+CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj: ../expect_call_side_effects.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call_side_effects.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call_side_effects.cc
+
+CMakeFiles/g_test.dir/expect_call_side_effects.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call_side_effects.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call_side_effects.cc > CMakeFiles\g_test.dir\expect_call_side_effects.cc.i
+
+CMakeFiles/g_test.dir/expect_call_side_effects.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_side_effects.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_side_effects.cc -o CMakeFiles\g_test.dir\expect_call_side_effects.cc.s
+
 # Object files for target g_test
 g_test_OBJECTS = \
 "CMakeFiles/g_test.dir/main.cpp.obj" \
@@ -256,7 +438,20 @@ g_test_OBJECTS = \
 "CMakeFiles/g_test.dir/test_fixture.cc.obj" \
 "CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.obj" \
 "CMakeFiles/g_test.dir/disabled_tests.cc.obj" \
-"CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj"
+"CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj" \
+"CMakeFiles/g_test.dir/test_share_logic.cc.obj" \
+"CMakeFiles/g_test.dir/test_param.cc.obj" \
+"CMakeFiles/g_test.dir/test_param_share_logic.cc.obj" \
+"CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj" \
+"CMakeFiles/g_test.dir/private_members.cc.obj" \
+"CMakeFiles/g_test.dir/adding_traces.cc.obj" \
+"CMakeFiles/g_test.dir/unspecified.cc.obj" \
+"CMakeFiles/g_test.dir/on_call.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call_matchers.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call_order.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call_return.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj"
 
 # External object files for target g_test
 g_test_EXTERNAL_OBJECTS =
@@ -273,14 +468,28 @@ g_test.exe: CMakeFiles/g_test.dir/test_fixture.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/disabled_tests.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/disabled_tests_fixture.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/test_share_logic.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/test_param.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/test_param_share_logic.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/private_members.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/adding_traces.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/unspecified.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/on_call.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call_matchers.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call_order.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call_return.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/build.make
 g_test.exe: lib/libgtest.a
 g_test.exe: lib/libgtest_main.a
+g_test.exe: lib/libgmock.a
 g_test.exe: lib/libgtest.a
 g_test.exe: CMakeFiles/g_test.dir/linklibs.rsp
 g_test.exe: CMakeFiles/g_test.dir/objects1.rsp
 g_test.exe: CMakeFiles/g_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable g_test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable g_test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\g_test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -24,9 +24,10 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googlemock/include"/>
 					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googletest/include"/>
+					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googlemock/include"/>
 					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googletest"/>
+					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googlemock"/>
 					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -48,9 +49,10 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googlemock/include"/>
 					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googletest/include"/>
+					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googlemock/include"/>
 					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googletest"/>
+					<Add directory="C:/Users/Mj117324/CLionProjects/g-test/lib/Google_test/googletest-main/googlemock"/>
 					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
 					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
 					<Add directory="C:/Program Files/CodeBlocks/MinGW/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
@@ -318,7 +320,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/adding_traces.cc">
+			<Option target="g_test"/>
+		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/assert_vs_expect.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/atm_machine.h">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/bank_of_test.h">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/bankserver.h">
 			<Option target="g_test"/>
 		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/c_string_assertions.cc">
@@ -334,6 +348,21 @@
 			<Option target="g_test"/>
 		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/exceptions.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/expect_call.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/expect_call_matchers.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/expect_call_order.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/expect_call_return.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/expect_call_side_effects.cc">
 			<Option target="g_test"/>
 		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/fib_test.cc">
@@ -357,13 +386,34 @@
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/main.cpp">
 			<Option target="g_test"/>
 		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/on_call.cc">
+			<Option target="g_test"/>
+		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/predicate.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/private_members.cc">
 			<Option target="g_test"/>
 		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/test_fixture.cc">
 			<Option target="g_test"/>
 		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/test_fixture_shared_resources.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/test_param.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/test_param_share_logic.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/test_share_logic.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/typed_tests_findmax.cc">
+			<Option target="g_test"/>
+		</Unit>
+		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/unspecified.cc">
 			<Option target="g_test"/>
 		</Unit>
 		<Unit filename="C:/Users/Mj117324/CLionProjects/g-test/CMakeLists.txt">

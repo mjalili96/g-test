@@ -27,6 +27,22 @@ set(SOURCE_FILES
         test_fixture.cc
         test_fixture_shared_resources.cc
         disabled_tests.cc
-        disabled_tests_fixture.cc)
+        disabled_tests_fixture.cc
+        test_share_logic.cc
+        test_param.cc
+        test_param_share_logic.cc
+        typed_tests_findmax.cc
+        private_members.cc
+        adding_traces.cc
+        unspecified.cc
+        on_call.cc
+        expect_call.cc
+       atm_machine.h
+        bankserver.h
+        bank_of_test.h
+        expect_call_matchers.cc
+        expect_call_order.cc
+        expect_call_return.cc
+        expect_call_side_effects.cc)
 add_executable(g_test ${SOURCE_FILES})
-TARGET_LINK_LIBRARIES(g_test gtest gtest_main)
+TARGET_LINK_LIBRARIES(g_test gtest gtest_main gmock)

@@ -239,6 +239,33 @@ gtest_main/fast:
 	$(MAKE) $(MAKESILENT) -f lib\Google_test\googletest-main\googletest\CMakeFiles\gtest_main.dir\build.make lib/Google_test/googletest-main/googletest/CMakeFiles/gtest_main.dir/build
 .PHONY : gtest_main/fast
 
+adding_traces.obj: adding_traces.cc.obj
+
+.PHONY : adding_traces.obj
+
+# target to build an object file
+adding_traces.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/adding_traces.cc.obj
+.PHONY : adding_traces.cc.obj
+
+adding_traces.i: adding_traces.cc.i
+
+.PHONY : adding_traces.i
+
+# target to preprocess a source file
+adding_traces.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/adding_traces.cc.i
+.PHONY : adding_traces.cc.i
+
+adding_traces.s: adding_traces.cc.s
+
+.PHONY : adding_traces.s
+
+# target to generate assembly for a file
+adding_traces.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/adding_traces.cc.s
+.PHONY : adding_traces.cc.s
+
 assert_vs_expect.obj: assert_vs_expect.cc.obj
 
 .PHONY : assert_vs_expect.obj
@@ -401,6 +428,141 @@ exceptions.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/exceptions.cc.s
 .PHONY : exceptions.cc.s
 
+expect_call.obj: expect_call.cc.obj
+
+.PHONY : expect_call.obj
+
+# target to build an object file
+expect_call.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call.cc.obj
+.PHONY : expect_call.cc.obj
+
+expect_call.i: expect_call.cc.i
+
+.PHONY : expect_call.i
+
+# target to preprocess a source file
+expect_call.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call.cc.i
+.PHONY : expect_call.cc.i
+
+expect_call.s: expect_call.cc.s
+
+.PHONY : expect_call.s
+
+# target to generate assembly for a file
+expect_call.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call.cc.s
+.PHONY : expect_call.cc.s
+
+expect_call_matchers.obj: expect_call_matchers.cc.obj
+
+.PHONY : expect_call_matchers.obj
+
+# target to build an object file
+expect_call_matchers.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_matchers.cc.obj
+.PHONY : expect_call_matchers.cc.obj
+
+expect_call_matchers.i: expect_call_matchers.cc.i
+
+.PHONY : expect_call_matchers.i
+
+# target to preprocess a source file
+expect_call_matchers.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_matchers.cc.i
+.PHONY : expect_call_matchers.cc.i
+
+expect_call_matchers.s: expect_call_matchers.cc.s
+
+.PHONY : expect_call_matchers.s
+
+# target to generate assembly for a file
+expect_call_matchers.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_matchers.cc.s
+.PHONY : expect_call_matchers.cc.s
+
+expect_call_order.obj: expect_call_order.cc.obj
+
+.PHONY : expect_call_order.obj
+
+# target to build an object file
+expect_call_order.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_order.cc.obj
+.PHONY : expect_call_order.cc.obj
+
+expect_call_order.i: expect_call_order.cc.i
+
+.PHONY : expect_call_order.i
+
+# target to preprocess a source file
+expect_call_order.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_order.cc.i
+.PHONY : expect_call_order.cc.i
+
+expect_call_order.s: expect_call_order.cc.s
+
+.PHONY : expect_call_order.s
+
+# target to generate assembly for a file
+expect_call_order.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_order.cc.s
+.PHONY : expect_call_order.cc.s
+
+expect_call_return.obj: expect_call_return.cc.obj
+
+.PHONY : expect_call_return.obj
+
+# target to build an object file
+expect_call_return.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_return.cc.obj
+.PHONY : expect_call_return.cc.obj
+
+expect_call_return.i: expect_call_return.cc.i
+
+.PHONY : expect_call_return.i
+
+# target to preprocess a source file
+expect_call_return.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_return.cc.i
+.PHONY : expect_call_return.cc.i
+
+expect_call_return.s: expect_call_return.cc.s
+
+.PHONY : expect_call_return.s
+
+# target to generate assembly for a file
+expect_call_return.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_return.cc.s
+.PHONY : expect_call_return.cc.s
+
+expect_call_side_effects.obj: expect_call_side_effects.cc.obj
+
+.PHONY : expect_call_side_effects.obj
+
+# target to build an object file
+expect_call_side_effects.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj
+.PHONY : expect_call_side_effects.cc.obj
+
+expect_call_side_effects.i: expect_call_side_effects.cc.i
+
+.PHONY : expect_call_side_effects.i
+
+# target to preprocess a source file
+expect_call_side_effects.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_side_effects.cc.i
+.PHONY : expect_call_side_effects.cc.i
+
+expect_call_side_effects.s: expect_call_side_effects.cc.s
+
+.PHONY : expect_call_side_effects.s
+
+# target to generate assembly for a file
+expect_call_side_effects.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_side_effects.cc.s
+.PHONY : expect_call_side_effects.cc.s
+
 fib_test.obj: fib_test.cc.obj
 
 .PHONY : fib_test.obj
@@ -482,6 +644,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+on_call.obj: on_call.cc.obj
+
+.PHONY : on_call.obj
+
+# target to build an object file
+on_call.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/on_call.cc.obj
+.PHONY : on_call.cc.obj
+
+on_call.i: on_call.cc.i
+
+.PHONY : on_call.i
+
+# target to preprocess a source file
+on_call.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/on_call.cc.i
+.PHONY : on_call.cc.i
+
+on_call.s: on_call.cc.s
+
+.PHONY : on_call.s
+
+# target to generate assembly for a file
+on_call.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/on_call.cc.s
+.PHONY : on_call.cc.s
+
 predicate.obj: predicate.cc.obj
 
 .PHONY : predicate.obj
@@ -508,6 +697,33 @@ predicate.s: predicate.cc.s
 predicate.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/predicate.cc.s
 .PHONY : predicate.cc.s
+
+private_members.obj: private_members.cc.obj
+
+.PHONY : private_members.obj
+
+# target to build an object file
+private_members.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/private_members.cc.obj
+.PHONY : private_members.cc.obj
+
+private_members.i: private_members.cc.i
+
+.PHONY : private_members.i
+
+# target to preprocess a source file
+private_members.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/private_members.cc.i
+.PHONY : private_members.cc.i
+
+private_members.s: private_members.cc.s
+
+.PHONY : private_members.s
+
+# target to generate assembly for a file
+private_members.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/private_members.cc.s
+.PHONY : private_members.cc.s
 
 test_fixture.obj: test_fixture.cc.obj
 
@@ -563,6 +779,141 @@ test_fixture_shared_resources.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_fixture_shared_resources.cc.s
 .PHONY : test_fixture_shared_resources.cc.s
 
+test_param.obj: test_param.cc.obj
+
+.PHONY : test_param.obj
+
+# target to build an object file
+test_param.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_param.cc.obj
+.PHONY : test_param.cc.obj
+
+test_param.i: test_param.cc.i
+
+.PHONY : test_param.i
+
+# target to preprocess a source file
+test_param.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_param.cc.i
+.PHONY : test_param.cc.i
+
+test_param.s: test_param.cc.s
+
+.PHONY : test_param.s
+
+# target to generate assembly for a file
+test_param.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_param.cc.s
+.PHONY : test_param.cc.s
+
+test_param_share_logic.obj: test_param_share_logic.cc.obj
+
+.PHONY : test_param_share_logic.obj
+
+# target to build an object file
+test_param_share_logic.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_param_share_logic.cc.obj
+.PHONY : test_param_share_logic.cc.obj
+
+test_param_share_logic.i: test_param_share_logic.cc.i
+
+.PHONY : test_param_share_logic.i
+
+# target to preprocess a source file
+test_param_share_logic.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_param_share_logic.cc.i
+.PHONY : test_param_share_logic.cc.i
+
+test_param_share_logic.s: test_param_share_logic.cc.s
+
+.PHONY : test_param_share_logic.s
+
+# target to generate assembly for a file
+test_param_share_logic.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_param_share_logic.cc.s
+.PHONY : test_param_share_logic.cc.s
+
+test_share_logic.obj: test_share_logic.cc.obj
+
+.PHONY : test_share_logic.obj
+
+# target to build an object file
+test_share_logic.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_share_logic.cc.obj
+.PHONY : test_share_logic.cc.obj
+
+test_share_logic.i: test_share_logic.cc.i
+
+.PHONY : test_share_logic.i
+
+# target to preprocess a source file
+test_share_logic.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_share_logic.cc.i
+.PHONY : test_share_logic.cc.i
+
+test_share_logic.s: test_share_logic.cc.s
+
+.PHONY : test_share_logic.s
+
+# target to generate assembly for a file
+test_share_logic.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/test_share_logic.cc.s
+.PHONY : test_share_logic.cc.s
+
+typed_tests_findmax.obj: typed_tests_findmax.cc.obj
+
+.PHONY : typed_tests_findmax.obj
+
+# target to build an object file
+typed_tests_findmax.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/typed_tests_findmax.cc.obj
+.PHONY : typed_tests_findmax.cc.obj
+
+typed_tests_findmax.i: typed_tests_findmax.cc.i
+
+.PHONY : typed_tests_findmax.i
+
+# target to preprocess a source file
+typed_tests_findmax.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/typed_tests_findmax.cc.i
+.PHONY : typed_tests_findmax.cc.i
+
+typed_tests_findmax.s: typed_tests_findmax.cc.s
+
+.PHONY : typed_tests_findmax.s
+
+# target to generate assembly for a file
+typed_tests_findmax.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/typed_tests_findmax.cc.s
+.PHONY : typed_tests_findmax.cc.s
+
+unspecified.obj: unspecified.cc.obj
+
+.PHONY : unspecified.obj
+
+# target to build an object file
+unspecified.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/unspecified.cc.obj
+.PHONY : unspecified.cc.obj
+
+unspecified.i: unspecified.cc.i
+
+.PHONY : unspecified.i
+
+# target to preprocess a source file
+unspecified.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/unspecified.cc.i
+.PHONY : unspecified.cc.i
+
+unspecified.s: unspecified.cc.s
+
+.PHONY : unspecified.s
+
+# target to generate assembly for a file
+unspecified.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/unspecified.cc.s
+.PHONY : unspecified.cc.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -580,6 +931,9 @@ help:
 	@echo ... gmock_main
 	@echo ... gtest
 	@echo ... gtest_main
+	@echo ... adding_traces.obj
+	@echo ... adding_traces.i
+	@echo ... adding_traces.s
 	@echo ... assert_vs_expect.obj
 	@echo ... assert_vs_expect.i
 	@echo ... assert_vs_expect.s
@@ -598,6 +952,21 @@ help:
 	@echo ... exceptions.obj
 	@echo ... exceptions.i
 	@echo ... exceptions.s
+	@echo ... expect_call.obj
+	@echo ... expect_call.i
+	@echo ... expect_call.s
+	@echo ... expect_call_matchers.obj
+	@echo ... expect_call_matchers.i
+	@echo ... expect_call_matchers.s
+	@echo ... expect_call_order.obj
+	@echo ... expect_call_order.i
+	@echo ... expect_call_order.s
+	@echo ... expect_call_return.obj
+	@echo ... expect_call_return.i
+	@echo ... expect_call_return.s
+	@echo ... expect_call_side_effects.obj
+	@echo ... expect_call_side_effects.i
+	@echo ... expect_call_side_effects.s
 	@echo ... fib_test.obj
 	@echo ... fib_test.i
 	@echo ... fib_test.s
@@ -607,15 +976,36 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... on_call.obj
+	@echo ... on_call.i
+	@echo ... on_call.s
 	@echo ... predicate.obj
 	@echo ... predicate.i
 	@echo ... predicate.s
+	@echo ... private_members.obj
+	@echo ... private_members.i
+	@echo ... private_members.s
 	@echo ... test_fixture.obj
 	@echo ... test_fixture.i
 	@echo ... test_fixture.s
 	@echo ... test_fixture_shared_resources.obj
 	@echo ... test_fixture_shared_resources.i
 	@echo ... test_fixture_shared_resources.s
+	@echo ... test_param.obj
+	@echo ... test_param.i
+	@echo ... test_param.s
+	@echo ... test_param_share_logic.obj
+	@echo ... test_param_share_logic.i
+	@echo ... test_param_share_logic.s
+	@echo ... test_share_logic.obj
+	@echo ... test_share_logic.i
+	@echo ... test_share_logic.s
+	@echo ... typed_tests_findmax.obj
+	@echo ... typed_tests_findmax.i
+	@echo ... typed_tests_findmax.s
+	@echo ... unspecified.obj
+	@echo ... unspecified.i
+	@echo ... unspecified.s
 .PHONY : help
 
 

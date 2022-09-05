@@ -347,6 +347,33 @@ death_test.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/death_test.cc.s
 .PHONY : death_test.cc.s
 
+delegate_to_fake.obj: delegate_to_fake.cc.obj
+
+.PHONY : delegate_to_fake.obj
+
+# target to build an object file
+delegate_to_fake.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/delegate_to_fake.cc.obj
+.PHONY : delegate_to_fake.cc.obj
+
+delegate_to_fake.i: delegate_to_fake.cc.i
+
+.PHONY : delegate_to_fake.i
+
+# target to preprocess a source file
+delegate_to_fake.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/delegate_to_fake.cc.i
+.PHONY : delegate_to_fake.cc.i
+
+delegate_to_fake.s: delegate_to_fake.cc.s
+
+.PHONY : delegate_to_fake.s
+
+# target to generate assembly for a file
+delegate_to_fake.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/delegate_to_fake.cc.s
+.PHONY : delegate_to_fake.cc.s
+
 disabled_tests.obj: disabled_tests.cc.obj
 
 .PHONY : disabled_tests.obj
@@ -454,6 +481,33 @@ expect_call.s: expect_call.cc.s
 expect_call.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call.cc.s
 .PHONY : expect_call.cc.s
+
+expect_call_invoke.obj: expect_call_invoke.cc.obj
+
+.PHONY : expect_call_invoke.obj
+
+# target to build an object file
+expect_call_invoke.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_invoke.cc.obj
+.PHONY : expect_call_invoke.cc.obj
+
+expect_call_invoke.i: expect_call_invoke.cc.i
+
+.PHONY : expect_call_invoke.i
+
+# target to preprocess a source file
+expect_call_invoke.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_invoke.cc.i
+.PHONY : expect_call_invoke.cc.i
+
+expect_call_invoke.s: expect_call_invoke.cc.s
+
+.PHONY : expect_call_invoke.s
+
+# target to generate assembly for a file
+expect_call_invoke.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_invoke.cc.s
+.PHONY : expect_call_invoke.cc.s
 
 expect_call_matchers.obj: expect_call_matchers.cc.obj
 
@@ -563,6 +617,33 @@ expect_call_side_effects.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_side_effects.cc.s
 .PHONY : expect_call_side_effects.cc.s
 
+expect_call_sticky_rules.obj: expect_call_sticky_rules.cc.obj
+
+.PHONY : expect_call_sticky_rules.obj
+
+# target to build an object file
+expect_call_sticky_rules.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj
+.PHONY : expect_call_sticky_rules.cc.obj
+
+expect_call_sticky_rules.i: expect_call_sticky_rules.cc.i
+
+.PHONY : expect_call_sticky_rules.i
+
+# target to preprocess a source file
+expect_call_sticky_rules.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.i
+.PHONY : expect_call_sticky_rules.cc.i
+
+expect_call_sticky_rules.s: expect_call_sticky_rules.cc.s
+
+.PHONY : expect_call_sticky_rules.s
+
+# target to generate assembly for a file
+expect_call_sticky_rules.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.s
+.PHONY : expect_call_sticky_rules.cc.s
+
 fib_test.obj: fib_test.cc.obj
 
 .PHONY : fib_test.obj
@@ -643,6 +724,60 @@ main.s: main.cpp.s
 main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/main.cpp.s
 .PHONY : main.cpp.s
+
+mock_non_virtual_classes.obj: mock_non_virtual_classes.cc.obj
+
+.PHONY : mock_non_virtual_classes.obj
+
+# target to build an object file
+mock_non_virtual_classes.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj
+.PHONY : mock_non_virtual_classes.cc.obj
+
+mock_non_virtual_classes.i: mock_non_virtual_classes.cc.i
+
+.PHONY : mock_non_virtual_classes.i
+
+# target to preprocess a source file
+mock_non_virtual_classes.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.i
+.PHONY : mock_non_virtual_classes.cc.i
+
+mock_non_virtual_classes.s: mock_non_virtual_classes.cc.s
+
+.PHONY : mock_non_virtual_classes.s
+
+# target to generate assembly for a file
+mock_non_virtual_classes.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.s
+.PHONY : mock_non_virtual_classes.cc.s
+
+mocking_free_function.obj: mocking_free_function.cc.obj
+
+.PHONY : mocking_free_function.obj
+
+# target to build an object file
+mocking_free_function.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/mocking_free_function.cc.obj
+.PHONY : mocking_free_function.cc.obj
+
+mocking_free_function.i: mocking_free_function.cc.i
+
+.PHONY : mocking_free_function.i
+
+# target to preprocess a source file
+mocking_free_function.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/mocking_free_function.cc.i
+.PHONY : mocking_free_function.cc.i
+
+mocking_free_function.s: mocking_free_function.cc.s
+
+.PHONY : mocking_free_function.s
+
+# target to generate assembly for a file
+mocking_free_function.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/mocking_free_function.cc.s
+.PHONY : mocking_free_function.cc.s
 
 on_call.obj: on_call.cc.obj
 
@@ -914,6 +1049,33 @@ unspecified.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/unspecified.cc.s
 .PHONY : unspecified.cc.s
 
+use_the_arg_in_return_value.obj: use_the_arg_in_return_value.cc.obj
+
+.PHONY : use_the_arg_in_return_value.obj
+
+# target to build an object file
+use_the_arg_in_return_value.cc.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj
+.PHONY : use_the_arg_in_return_value.cc.obj
+
+use_the_arg_in_return_value.i: use_the_arg_in_return_value.cc.i
+
+.PHONY : use_the_arg_in_return_value.i
+
+# target to preprocess a source file
+use_the_arg_in_return_value.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.i
+.PHONY : use_the_arg_in_return_value.cc.i
+
+use_the_arg_in_return_value.s: use_the_arg_in_return_value.cc.s
+
+.PHONY : use_the_arg_in_return_value.s
+
+# target to generate assembly for a file
+use_the_arg_in_return_value.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\g_test.dir\build.make CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.s
+.PHONY : use_the_arg_in_return_value.cc.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -943,6 +1105,9 @@ help:
 	@echo ... death_test.obj
 	@echo ... death_test.i
 	@echo ... death_test.s
+	@echo ... delegate_to_fake.obj
+	@echo ... delegate_to_fake.i
+	@echo ... delegate_to_fake.s
 	@echo ... disabled_tests.obj
 	@echo ... disabled_tests.i
 	@echo ... disabled_tests.s
@@ -955,6 +1120,9 @@ help:
 	@echo ... expect_call.obj
 	@echo ... expect_call.i
 	@echo ... expect_call.s
+	@echo ... expect_call_invoke.obj
+	@echo ... expect_call_invoke.i
+	@echo ... expect_call_invoke.s
 	@echo ... expect_call_matchers.obj
 	@echo ... expect_call_matchers.i
 	@echo ... expect_call_matchers.s
@@ -967,6 +1135,9 @@ help:
 	@echo ... expect_call_side_effects.obj
 	@echo ... expect_call_side_effects.i
 	@echo ... expect_call_side_effects.s
+	@echo ... expect_call_sticky_rules.obj
+	@echo ... expect_call_sticky_rules.i
+	@echo ... expect_call_sticky_rules.s
 	@echo ... fib_test.obj
 	@echo ... fib_test.i
 	@echo ... fib_test.s
@@ -976,6 +1147,12 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... mock_non_virtual_classes.obj
+	@echo ... mock_non_virtual_classes.i
+	@echo ... mock_non_virtual_classes.s
+	@echo ... mocking_free_function.obj
+	@echo ... mocking_free_function.i
+	@echo ... mocking_free_function.s
 	@echo ... on_call.obj
 	@echo ... on_call.i
 	@echo ... on_call.s
@@ -1006,6 +1183,9 @@ help:
 	@echo ... unspecified.obj
 	@echo ... unspecified.i
 	@echo ... unspecified.s
+	@echo ... use_the_arg_in_return_value.obj
+	@echo ... use_the_arg_in_return_value.i
+	@echo ... use_the_arg_in_return_value.s
 .PHONY : help
 
 

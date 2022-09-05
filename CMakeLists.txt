@@ -43,6 +43,13 @@ set(SOURCE_FILES
         expect_call_matchers.cc
         expect_call_order.cc
         expect_call_return.cc
-        expect_call_side_effects.cc)
+        expect_call_side_effects.cc
+        expect_call_invoke.cc
+        expect_call_sticky_rules.cc
+        mock_non_virtual_classes.cc
+        mocking_free_function.cc
+        delegate_to_fake.cc
+        use_the_arg_in_return_value.cc)
+
 add_executable(g_test ${SOURCE_FILES})
 TARGET_LINK_LIBRARIES(g_test gtest gtest_main gmock)

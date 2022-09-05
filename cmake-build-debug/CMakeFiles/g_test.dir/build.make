@@ -425,6 +425,90 @@ CMakeFiles/g_test.dir/expect_call_side_effects.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_side_effects.cc.s"
 	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_side_effects.cc -o CMakeFiles\g_test.dir\expect_call_side_effects.cc.s
 
+CMakeFiles/g_test.dir/expect_call_invoke.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call_invoke.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call_invoke.cc.obj: ../expect_call_invoke.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/g_test.dir/expect_call_invoke.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call_invoke.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call_invoke.cc
+
+CMakeFiles/g_test.dir/expect_call_invoke.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call_invoke.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call_invoke.cc > CMakeFiles\g_test.dir\expect_call_invoke.cc.i
+
+CMakeFiles/g_test.dir/expect_call_invoke.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_invoke.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_invoke.cc -o CMakeFiles\g_test.dir\expect_call_invoke.cc.s
+
+CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj: ../expect_call_sticky_rules.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\expect_call_sticky_rules.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\expect_call_sticky_rules.cc
+
+CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\expect_call_sticky_rules.cc > CMakeFiles\g_test.dir\expect_call_sticky_rules.cc.i
+
+CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\expect_call_sticky_rules.cc -o CMakeFiles\g_test.dir\expect_call_sticky_rules.cc.s
+
+CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj: ../mock_non_virtual_classes.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\mock_non_virtual_classes.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\mock_non_virtual_classes.cc
+
+CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\mock_non_virtual_classes.cc > CMakeFiles\g_test.dir\mock_non_virtual_classes.cc.i
+
+CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\mock_non_virtual_classes.cc -o CMakeFiles\g_test.dir\mock_non_virtual_classes.cc.s
+
+CMakeFiles/g_test.dir/mocking_free_function.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/mocking_free_function.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/mocking_free_function.cc.obj: ../mocking_free_function.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/g_test.dir/mocking_free_function.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\mocking_free_function.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\mocking_free_function.cc
+
+CMakeFiles/g_test.dir/mocking_free_function.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/mocking_free_function.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\mocking_free_function.cc > CMakeFiles\g_test.dir\mocking_free_function.cc.i
+
+CMakeFiles/g_test.dir/mocking_free_function.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/mocking_free_function.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\mocking_free_function.cc -o CMakeFiles\g_test.dir\mocking_free_function.cc.s
+
+CMakeFiles/g_test.dir/delegate_to_fake.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/delegate_to_fake.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/delegate_to_fake.cc.obj: ../delegate_to_fake.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/g_test.dir/delegate_to_fake.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\delegate_to_fake.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\delegate_to_fake.cc
+
+CMakeFiles/g_test.dir/delegate_to_fake.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/delegate_to_fake.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\delegate_to_fake.cc > CMakeFiles\g_test.dir\delegate_to_fake.cc.i
+
+CMakeFiles/g_test.dir/delegate_to_fake.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/delegate_to_fake.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\delegate_to_fake.cc -o CMakeFiles\g_test.dir\delegate_to_fake.cc.s
+
+CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj: CMakeFiles/g_test.dir/flags.make
+CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj: CMakeFiles/g_test.dir/includes_CXX.rsp
+CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj: ../use_the_arg_in_return_value.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\g_test.dir\use_the_arg_in_return_value.cc.obj -c C:\Users\Mj117324\CLionProjects\g-test\use_the_arg_in_return_value.cc
+
+CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.i"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mj117324\CLionProjects\g-test\use_the_arg_in_return_value.cc > CMakeFiles\g_test.dir\use_the_arg_in_return_value.cc.i
+
+CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.s"
+	C:\PROGRA~1\CODEBL~1\MinGW\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mj117324\CLionProjects\g-test\use_the_arg_in_return_value.cc -o CMakeFiles\g_test.dir\use_the_arg_in_return_value.cc.s
+
 # Object files for target g_test
 g_test_OBJECTS = \
 "CMakeFiles/g_test.dir/main.cpp.obj" \
@@ -451,7 +535,13 @@ g_test_OBJECTS = \
 "CMakeFiles/g_test.dir/expect_call_matchers.cc.obj" \
 "CMakeFiles/g_test.dir/expect_call_order.cc.obj" \
 "CMakeFiles/g_test.dir/expect_call_return.cc.obj" \
-"CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj"
+"CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call_invoke.cc.obj" \
+"CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj" \
+"CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj" \
+"CMakeFiles/g_test.dir/mocking_free_function.cc.obj" \
+"CMakeFiles/g_test.dir/delegate_to_fake.cc.obj" \
+"CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj"
 
 # External object files for target g_test
 g_test_EXTERNAL_OBJECTS =
@@ -481,6 +571,12 @@ g_test.exe: CMakeFiles/g_test.dir/expect_call_matchers.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/expect_call_order.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/expect_call_return.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/expect_call_side_effects.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call_invoke.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/expect_call_sticky_rules.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/mock_non_virtual_classes.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/mocking_free_function.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/delegate_to_fake.cc.obj
+g_test.exe: CMakeFiles/g_test.dir/use_the_arg_in_return_value.cc.obj
 g_test.exe: CMakeFiles/g_test.dir/build.make
 g_test.exe: lib/libgtest.a
 g_test.exe: lib/libgtest_main.a
@@ -489,7 +585,7 @@ g_test.exe: lib/libgtest.a
 g_test.exe: CMakeFiles/g_test.dir/linklibs.rsp
 g_test.exe: CMakeFiles/g_test.dir/objects1.rsp
 g_test.exe: CMakeFiles/g_test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable g_test.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mj117324\CLionProjects\g-test\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Linking CXX executable g_test.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\g_test.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
